@@ -23,4 +23,3 @@ if (averageDolphins > averageKoalas && averageDolphins >= 100) {
 } else {
     console.log(`Unfortunately, nobody wins the Trophy 😟`);
 }
-
